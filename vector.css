@@ -10,9 +10,19 @@
     vertical-align: middle;
 }
 
-.lea-grid-of1 {
+.lea-grid-rowof1 {
     height: 100%;
 }
+
+.lea-grid-rowof2 {
+    height: 50%;
+}
+
+.lea-grid-rowof3 {
+    height: 33.33%;
+}
+
+
 
 .lea-grid-subject {
     font-weight: 700;
