@@ -1,7 +1,19 @@
-.lea-grid-header {
+.lea-grid-title {
     background-color: #0000ffee;
 }
 
-.lea-grid-title {
+.lea-grid-header {
     background-color: #0000ff55;
+}
+
+.lea-grid-content {
+    vertical-align: middle;
+}
+
+.lea-grid-of1 {
+    height: 100%;
+}
+
+.lea-grid-subject {
+    font-weight: 700;
 }
