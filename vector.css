@@ -25,6 +25,8 @@
 
 .lea-grid-rowof4 {
     height: 25%;
+    align-items: center;
+    display: flex;
 }
 
 
