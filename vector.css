@@ -30,7 +30,7 @@
     align-items: center;
     display: flex;
     border: solid 2px black;
-    margin: 0 2px;
+    padding: 0 2px;
 }
 
 .lea-grid-rowof1 {
