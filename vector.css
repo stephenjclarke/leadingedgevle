@@ -9,6 +9,17 @@
 
 .lea-grid-title {
     background-color: #0000ffee;
+    color: #fff;
+}
+
+.lea-grid-footer {
+    background-color: #0000ffee;
+    color: #fff;
+}
+
+.lea-grid-footer, .lea-grid-title {
+    background-color: #0000ffee;
+    color: #fff;
 }
 
 .lea-grid-header {
