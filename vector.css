@@ -51,8 +51,8 @@
     display: flex;
 }
 
-.lea-grid-notthis {
-    background-color: #eee;
+.lea-grid-total {
+    font-weight: 700;
 }
 
 .lea-grid-this {
