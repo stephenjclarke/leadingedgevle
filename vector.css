@@ -26,6 +26,7 @@
 .lea-grid-header {
     background-color: #0000ff55;
     margin: 0;
+    text-align: center;
 }
 
 .lea-grid-content {
