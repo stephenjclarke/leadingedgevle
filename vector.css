@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-.theme-snap #snap-pm-header {
-    background-color: #4e41ff;
-}
-
 .lea-grid-title {
     text-align: center;
     padding: 20px 0;
@@ -69,6 +65,16 @@
 
 .lea-grid-hours {
     text-align: right;
+}
+
+.lea-grid-credits {
+    text-align: center;
+}
+
+#lea-creditsawarded {
+    padding: 20px 0 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
 }
 
 
