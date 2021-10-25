@@ -8,19 +8,19 @@
 }
 
 .lea-grid-title {
-    background-color: #0000ffee;
-    color: #fff;
+    text-align: center;
+    padding: 20px 0;
 }
 
 .lea-grid-footer {
-    background-color: #0000ffee;
-    color: #fff;
+    padding: 10px;
 }
 
 .lea-grid-footer, .lea-grid-title {
     background-color: #0000ffee;
     color: #fff;
     margin: 0;
+    font-weight: 900;
 }
 
 .lea-grid-header {
