@@ -91,24 +91,24 @@
 
 .lea-mdl-corecontent {
     border-radius: 10px;
-    padding: 5%;
+    padding: 15px;
     text-align: center;
-    font-size: 16pt;
+    font-size: 20pt;
     letter-spacing: 2px;
     font-weight: 900;
 }
 
 .lea-mdl-additionalcontent {
     border-radius: 5px;
-    padding: 2%;
+    padding: 5px;
     text-align: left;
     font-size: 14pt;
 }
 
 .lea-mdl-knowledgecheck {
     border-radius: 10px;
-    padding: 5%;
-    text-align: center;
+    padding: 10px;
+    text-align: left;
     font-size: 16pt;
     letter-spacing: 1px;
     font-weight: 900;
