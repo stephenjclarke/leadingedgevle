@@ -6,21 +6,23 @@
 .lea-grid-title {
     text-align: center;
     padding: 20px 0;
+    border-radius: 10px 10px 0 0;
 }
 
 .lea-grid-footer {
     padding: 10px;
+    border-radius: 0 0 10px 10px;
 }
 
 .lea-grid-footer, .lea-grid-title {
-    background-color: #0000ffee;
+    background-color: #002147;
     color: #eee;
     margin: 0;
     font-weight: 900;
 }
 
 .lea-grid-header {
-    background-color: #0000ff55;
+    background-color: #00214755;
     margin: 0;
     text-align: center;
 }
