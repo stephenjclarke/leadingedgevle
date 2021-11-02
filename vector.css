@@ -94,6 +94,10 @@
     color: #46db4b;
 }
 
+.lea-colours-text {
+   color: #46db4b;
+}
+
 .lea-mdl-corecontent {
     border-radius: 10px;
     padding: 15px;
@@ -124,7 +128,7 @@
     border-radius: 15px;
     padding: 10px;
     text-align: center;
-    font-size: 24px;
+    font-size: 24pt;
 }
 
 .lea-mdl-ytvideo {
