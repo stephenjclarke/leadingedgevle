@@ -150,7 +150,7 @@
     font-size: 16pt;
 }
 
-.lea-vect-head01 {
+.lea-vect-head-left-01 {
     font-size: 20pt;
     padding: 10px;
     border-radius: 5px;
@@ -159,4 +159,11 @@
 .lea-vect-colours {
     background-color: #002147;
     color: #fff;
+}
+
+#.lea-vect-head-centre-01 {
+    font-size: 20pt;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
 }
