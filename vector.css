@@ -2,7 +2,7 @@
 
 
 .lea-grid {
-    margin: 10px;
+    margin: 0;
     padding: 0;
     border-radius: 10px;
     border: 1px solid #002147;
@@ -26,7 +26,6 @@
 
 .lea-grid-header {
     background-color: #00214755;
-    margin: 0;
     text-align: center;
 }
 
