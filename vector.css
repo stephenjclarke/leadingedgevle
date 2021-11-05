@@ -142,6 +142,8 @@
 
 .lea-vect-unithead {
     font-size: 20pt;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .lea-vect-linktext {
@@ -150,6 +152,8 @@
 
 .lea-vect-head01 {
     font-size: 20pt;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .lea-vect-colours {
