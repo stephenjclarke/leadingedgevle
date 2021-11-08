@@ -246,9 +246,6 @@
     border-radius: 10px;
     background-color: #002147;
     color: #fff;
-    margin: 0 0 0 20px;
+    margin: 0 0 20px 0;
 }
 
-.lea-vect-unit-complete ul {
-    margin: 0;
-}
