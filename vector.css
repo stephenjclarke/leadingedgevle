@@ -232,12 +232,12 @@
 
 .lea-vect-read-required {
     font-size: 150%;
-    padding: 10px;
     border-radius: 10px;
     border: 2px solid #ee2147;
     background-color: #002147;
     margin: 0 0 30px 0;
     color: #ee2147dd;
+    padding: 10px;
 }
 
 .lea-vect-unit-complete {
@@ -247,4 +247,8 @@
     background-color: #002147;
     color: #fff;
     margin: 0 0 0 20px;
+}
+
+.lea-vect-unit-complete ul {
+    margin: 0;
 }
