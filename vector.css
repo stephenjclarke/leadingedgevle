@@ -149,11 +149,12 @@
 
 .lea-mdl-ytvideo {
     text-align: center;
-    margin: 0 10px;
+    margin: 0 10px 30px 10px;
 }
 
 .lea-vect-modulehead {
     font-size: 24pt;
+    padding: 20px 0 0 0;
 }
 
 .lea-vect-unithead {
