@@ -184,7 +184,17 @@
 .lea-vect-unithead {
     font-size: 130%;
     padding: 10px;
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px;
+    margin: 20px 0 0 0;
+}
+
+.lea-vect-testhead {
+    padding: 10px;
+    background-color: #005599ee;
+    font-size: 20pt;
+    color: #ffffffdd;
+    border-radius: 5px;
+    margin: 20px 0;
 }
 
 .lea-vect-readinghead {
@@ -228,6 +238,15 @@
     font-size: 150%;
     padding: 10px;
     border-radius: 5px 5px 0 0;
+}
+
+.lea-vect-head-schoolfinals {
+    font-size: 150%;
+    padding: 10px;
+    background-color: #005599ee;
+    color: #ffffffdd;
+    border-radius: 5px;
+    margin: 20px 0;
 }
 
 .lea-vect-read-required {
