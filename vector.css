@@ -235,4 +235,13 @@
     padding: 10px;
     border-radius: 10px;
     border: 2px solid #ff2147;
+    background-color: #002147;
+    margin: 0 0 30px 0;
+}
+
+.lea-vect-unit-complete {
+    font-size: 150%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #002147;
 }
