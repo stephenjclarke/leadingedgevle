@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.dropdown-item:hover {
+.dropdown-item a:hover {
     color: #000;
 }
 
