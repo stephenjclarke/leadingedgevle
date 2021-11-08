@@ -149,7 +149,8 @@
 
 .lea-mdl-ytvideo {
     text-align: center;
-    margin: 0 10px 30px 10px;
+    margin: 0 10px 50px 10px;
+    border-radius: 10px;
 }
 
 .lea-vect-modulehead {
@@ -174,9 +175,9 @@
 }
 
 .lea-vect-unithead {
-    font-size: 20pt;
+    font-size: 130%;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0;
 }
 
 .lea-vect-linktext {
@@ -204,5 +205,5 @@
 .lea-vect-head-topics {
     font-size: 150%;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0;
 }
