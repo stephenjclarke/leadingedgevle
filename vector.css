@@ -195,10 +195,12 @@
 }
 
 .lea-vect-linktext {
-    font-size: 16pt;
+    font-size: 100%;
     border: 1px solid #002147;
     border-radius: 5px;
-    background-color: #00214755;
+    background-color: #00214722;
+    margin: 0 0 20px 0;
+    color: #000000dd;
 }
 
 .lea-vect-head-left-01 {
