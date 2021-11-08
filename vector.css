@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.dropdown-item:hover {
+    color: #000;
+}
+
 .row{
     margin: 0;
 }
@@ -11,10 +15,6 @@
     margin: 5px 10px;
     font-weight: 800;
     font-size: 120%;
-}
-
-.lea-module-head {
-    font-size: 140%;
 }
 
 .lea-grid {
