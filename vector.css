@@ -229,3 +229,10 @@
     padding: 10px;
     border-radius: 5px 5px 0 0;
 }
+
+.lea-vect-read-required {
+    font-size: 150%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid #ff2147;
+}
