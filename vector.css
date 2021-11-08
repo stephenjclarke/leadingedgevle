@@ -184,10 +184,14 @@
     font-size: 120%;
     padding: 10px;
     border-radius: 5px 5px 0 0;
+    margin: 10px 0;
 }
 
 .lea-vect-linktext {
     font-size: 16pt;
+    border: 1px solid #002147;
+    border-radius: 5px;
+    background-color: #00214755;
 }
 
 .lea-vect-head-left-01 {
