@@ -180,6 +180,12 @@
     border-radius: 5px 5px 0 0;
 }
 
+.lea-vect-readinghead {
+    font-size: 120%;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+}
+
 .lea-vect-linktext {
     font-size: 16pt;
 }
@@ -200,6 +206,7 @@
     padding: 10px;
     border-radius: 5px;
     text-align: center;
+    background-color: #002147;
 }
 
 .lea-vect-head-topics {
