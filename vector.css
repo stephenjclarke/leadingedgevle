@@ -168,6 +168,9 @@
 .lea-vect-revision{
     padding: 10px;
     background-color: #005599ee;
+    font-size: 20pt;
+    color: #ffffffdd;
+    border-radius: 5px;
 }
 
 .lea-vect-unithead {
