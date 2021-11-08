@@ -165,6 +165,11 @@
     font-weight: 700;
 }
 
+.lea-vect-revision{
+    padding: 10px;
+    background-color #005599ee;
+}
+
 .lea-vect-unithead {
     font-size: 20pt;
     padding: 10px;
