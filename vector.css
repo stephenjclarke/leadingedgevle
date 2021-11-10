@@ -187,8 +187,9 @@
     padding: 10px;
     border-radius: 5px;
     color: #fff;
-    background-color: #00214755;
+    background-color: #002147dd;
     letter-spacing: 2px;
+    font-weight: 700;
 }
 
 .lea-vect-unitbground {
