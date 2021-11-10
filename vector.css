@@ -187,7 +187,7 @@
     padding: 20px;
     border-radius: 5px;
     color: #fff;
-    background-color: linear-gradient(#002147ff,#00214755 );
+    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
     letter-spacing: 2px;
     font-weight: 700;
 }
