@@ -184,10 +184,10 @@
 
 .lea-vect-unithead {
     font-size: 150%;
-    padding: 10px;
+    padding: 20px;
     border-radius: 5px;
     color: #fff;
-    background-color: #002147dd;
+    background-color: linear-gradient(#002147ff,#00214755 );
     letter-spacing: 2px;
     font-weight: 700;
 }
