@@ -232,14 +232,16 @@
     text-align: center;
     background-color: #002147;
     color: #fff;
-    margin: 0 0 20px 0;
+    opacity: 0.9;
     
 }
 
 .lea-mdl-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/lea-a320-simulator-hire-hero2.jpg');
     background-repeat: no-repeat;
-    opacity: 0.5;
+    opacity: 0.9;
+    padding: 10px;
+    margin: 0 0 20px 0;
 }
 
 .lea-vect-head-topics {
