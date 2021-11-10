@@ -186,8 +186,18 @@
     font-size: 130%;
     padding: 10px;
     border-radius: 5px;
+}
+
+.lea-vect-unitbground {
+    background-image: url('https://vle.leadingedgeaviation.com/pluginfile.php/1/theme_tltitan/headerdefaultimage/1636042074/header.jpg');
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    padding: 10px;
+    margin: 0 0 20px 0;
+    background-size: cover;
     margin: 20px 0 0 0;
 }
+
 
 .lea-vect-testhead {
     padding: 10px;
@@ -244,6 +254,7 @@
     margin: 0 0 20px 0;
     background-size: cover;
 }
+
 
 .lea-vect-head-topics {
     font-size: 150%;
