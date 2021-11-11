@@ -212,15 +212,7 @@
     border-radius: 5px;
 }
 
-.lea-vect-readingbground {
-    background-image: url('https://stephenjclarke.github.io/leadingedgevle/images/iPad_Reading.jpg');
-    background-repeat: no-repeat;
-    padding: 0px;
-    margin: 0 0 20px 0;
-    background-size: cover;
-    margin: 20px 0 0 0;
-    border-radius: 5px;
-}
+
 
 .lea-vect-unithead-left,  .lea-vect-unithead-right{
     font-size: 140%;
@@ -266,7 +258,18 @@
     padding: 10px;
     border-radius: 5px 5px 0 0;
     margin: 10px 0;
+    color: #fff;
     background-image: linear-gradient(to right,#002147dd,#00214711 );
+}
+
+.lea-vect-readingbground {
+    background-image: url('https://stephenjclarke.github.io/leadingedgevle/images/iPad_Reading.jpg');
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0 0 20px 0;
+    background-size: fit;
+    margin: 20px 0 0 0;
+    border-radius: 5px;
 }
 
 .lea-vect-link {
