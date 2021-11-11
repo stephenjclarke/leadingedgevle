@@ -177,10 +177,10 @@
 
 .lea-vect-revision{
     padding: 10px;
-    background-color: #005599ee;
+    background-image: linear-gradient(160deg, #002147ff, #002147dd, #00214711, #ffffff00);
     font-size: 20pt;
     color: #ffffffdd;
-    border-radius: 5px;
+    border-radius: 20px 0 0 20px;
     margin: 20px 0;
 }
 
