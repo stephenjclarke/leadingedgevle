@@ -280,7 +280,7 @@
 
 .lea-vect-head-centre-01 {
     font-size: 20pt;
-    padding: 20px;
+    padding: 30px;
     border-radius: 5px;
     text-align: center;
     color: #fff;
@@ -291,15 +291,16 @@
 .lea-mdl-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
-    opacity: 0.9;
-    padding: 10px;
+    opacity: 0.8;
+    padding: 5px;
     background-size: cover;
+    margin-top: 20px;
 }
 
 .lea-vect-head-centre-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
-    opacity: 0.9;
+    opacity: 0.8;
     padding: 10px;
     margin: 0;
     background-size: cover;
