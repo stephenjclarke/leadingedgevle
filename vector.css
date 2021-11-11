@@ -212,7 +212,7 @@
     border-radius: 5px;
 }
 
-.lea-vect-revisionbground {
+.lea-vect-readingbground {
     background-image: url('https://github.com/stephenjclarke/leadingedgevle/blob/main/images/iPad_Reading.jpg');
     background-repeat: no-repeat;
     padding: 0px;
@@ -266,6 +266,7 @@
     padding: 10px;
     border-radius: 5px 5px 0 0;
     margin: 10px 0;
+    background-image: linear-gradient(to right,#002147dd,#00214711 );
 }
 
 .lea-vect-link {
