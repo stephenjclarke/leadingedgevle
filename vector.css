@@ -210,15 +210,24 @@
     border-radius: 5px;
 }
 
-.lea-vect-unithead {
+.lea-vect-unithead-left,  .lea-vect-unithead-right{
     font-size: 140%;
     padding: 20px;
     border-radius: 5px;
-    color: #fff;
-    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
     letter-spacing: 2px;
     font-weight: 700;
 }
+
+.lea-vect-unithead-left {
+    color: #fff;
+    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
+}
+
+.lea-vect-unithead-right{
+    color: #002147;
+    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
+    text-align: right;
+ }
 
 .lea-vect-unitbground {
     background-repeat: no-repeat;
