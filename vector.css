@@ -182,6 +182,26 @@
     margin: 20px 0;
 }
 
+.lea-vect-modulehead {
+    font-size: 150%;
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.lea-vect-modulebground {
+    background-image: url('https://vle.leadingedgeaviation.com/pluginfile.php/1/theme_tltitan/headerdefaultimage/1636042074/header.jpg');
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin: 0 0 20px 0;
+    background-size: cover;
+    margin: 20px 0 0 0;
+    border-radius: 5px;
+}
+
 .lea-vect-unithead {
     font-size: 150%;
     padding: 20px;
