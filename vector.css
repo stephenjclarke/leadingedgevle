@@ -220,12 +220,12 @@
 
 .lea-vect-unithead-left {
     color: #fff;
-    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
+    background-image: linear-gradient(to right, #002147ff,#002147dd );
 }
 
 .lea-vect-unithead-right{
     color: #002147;
-    background-image: linear-gradient(to right, #002147ff,#002147dd,#00214700 );
+    background-image: linear-gradient(to right,#002147dd,#00214700 );
     text-align: right;
  }
 
