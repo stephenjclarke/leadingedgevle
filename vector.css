@@ -212,6 +212,16 @@
     border-radius: 5px;
 }
 
+.lea-vect-revisionbground {
+    background-image: url('https://stephenjclarke.github.io/leadingedgevle/images/iPadReading.jpg');
+    background-repeat: no-repeat;
+    padding: 0px;
+    margin: 0 0 20px 0;
+    background-size: cover;
+    margin: 20px 0 0 0;
+    border-radius: 5px;
+}
+
 .lea-vect-unithead-left,  .lea-vect-unithead-right{
     font-size: 140%;
     padding: 20px;
