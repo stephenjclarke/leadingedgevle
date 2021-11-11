@@ -18,7 +18,7 @@
 }
 
 .lea-grid {
-    margin: 10px;
+    margin: 0 0 10px 0;
     padding: 10px;
     border-radius: 0;
     border: 1px solid #002147;
@@ -278,12 +278,11 @@
 
 .lea-vect-head-centre-01 {
     font-size: 20pt;
-    padding: 10px;
+    padding: 20px;
     border-radius: 5px;
     text-align: center;
-    background-color: #002147;
     color: #fff;
-    background-image:   background-image: radial-gradient(#002147ff, #00214700);
+    background-image:   radial-gradient(#002147ff, #00214700);
     
 }
 
@@ -300,7 +299,7 @@
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
     opacity: 0.9;
-    padding: 20px;
+    padding: 10px;
     margin: 0 0 20px 0;
     background-size: cover;
 }
