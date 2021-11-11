@@ -220,19 +220,19 @@
 .lea-vect-unithead-left {
     color: #fff;
     background-image: linear-gradient(to right, #002147ff,#002147dd );
-    border-radius: 5px 0px 0px 5px;
+    border-radius: 5px 0px 0px 0px;
 }
 
 .lea-vect-unithead-right{
     color: #002147;
-    background-image: linear-gradient(to right,#002147dd,#00214700 );
+    background-image: linear-gradient(to right,#002147dd,#00214711 );
     text-align: right;
-    border-radius: 0 5px 5px 0;
+    border-radius: 0 10px 0px 0;
  }
 
 .lea-vect-unitbground {
     background-repeat: no-repeat;
-    padding: 5px;
+    padding: 0;
     margin: 0 0 20px 0;
     background-size: cover;
     margin: 20px 0 0 0;
@@ -291,7 +291,6 @@
     background-repeat: no-repeat;
     opacity: 0.9;
     padding: 10px;
-    margin: 0 0 20px 0;
     background-size: cover;
 }
 
