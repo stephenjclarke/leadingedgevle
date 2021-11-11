@@ -262,6 +262,7 @@
     font-size: 100%;
     border-radius: 5px;
     color: #000000dd;
+    margin: 0 0 20px 0;
 }
 
 .lea-vect-link i {
@@ -269,6 +270,7 @@
     align-items: center;
     justify-content: center;
     font-size: 200%;
+    height: 100%;
 }
 
 .lea-vect-linktext {
@@ -276,7 +278,7 @@
     border: 1px solid #002147;
     border-radius: 5px;
     background-color: #00214722;
-    margin: 0 0 20px 0;
+    margin: 0;
     color: #000000dd;
 }
 
