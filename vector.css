@@ -307,10 +307,17 @@
 }
 
 
-.lea-vect-head-topics {
+.lea-vect-head-topics-left {
     font-size: 150%;
     padding: 10px;
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px 0px 0 0;
+}
+
+.lea-vect-head-topics-right {
+    font-size: 150%;
+    padding: 10px;
+    border-radius: 0px 5px 0 0;
+    text-align: center;
 }
 
 .lea-vect-head-schoolfinals {
