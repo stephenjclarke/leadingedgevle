@@ -264,6 +264,7 @@
     color: #000000dd;
     margin: 0 0 20px 0;
     border: 1px solid #002147;
+    width: 80%;
 }
 
 .lea-vect-link i {
@@ -273,6 +274,10 @@
     font-size: 200%;
     height: 100%;
     background-color: #00214722;
+}
+
+.lea-vect-link div {
+    padding: 0;
 }
 
 .lea-vect-linktext {
