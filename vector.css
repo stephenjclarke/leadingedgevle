@@ -411,14 +411,17 @@
     border-radius: 15px;
     padding: 10px;
     text-align: center;
-    font-size: 160%;
     width: 90%;
 }
 
-.lea-mdl-text-01-c {
-    padding: 10px;
+.lea-mdl-heading-01 h1{
     text-align: center;
-    font-size: 14px;
+    font-size: 160%;
+}
+
+.lea-mdl-text-01-c p {
+    text-align: center;
+    font-size: 100%;
     color: #fff;
 }
 
