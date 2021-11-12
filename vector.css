@@ -200,6 +200,7 @@
     color: #002147ff;
     letter-spacing: 1.5px;
     font-weight: 700;
+    background-image: linear-gradient(to right, #002147ff,#002147dd );
 }
 
 .lea-vect-modulebground {
