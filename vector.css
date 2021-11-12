@@ -412,6 +412,15 @@
     padding: 10px;
     text-align: center;
     font-size: 150%;
+    width: 90%;
+}
+
+.lea-mdl-text-01-c {
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    font-size: 120%;
+    color: #fff;
 }
 
 
