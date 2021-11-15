@@ -7,6 +7,13 @@
     color: #000;
 }
 
+.dropdown-item:active {
+    color: #000;
+
+}
+
+
+
 /*
 .row{
     margin: 0;
