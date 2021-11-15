@@ -1,17 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 .dropdown-item a:hover {
     color: #000;
 }
-
-.dropdown-item:focus-within {
-    color: #000;
-
-}
-
 
 
 /*
