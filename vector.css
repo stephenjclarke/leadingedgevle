@@ -7,7 +7,7 @@
     color: #000;
 }
 
-.dropdown-item:focus {
+.dropdown-item:focus-within {
     color: #000;
 
 }
