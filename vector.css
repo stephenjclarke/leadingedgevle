@@ -38,7 +38,7 @@
 }
 
 .lea-grid-footer, .lea-grid-title {
-    background-color: #002147;
+    background-color: var(--lea-blue);
     color: #eee;
     margin: 0;
     font-weight: 900;
