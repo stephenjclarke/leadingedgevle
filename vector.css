@@ -26,7 +26,6 @@
 
 .lea-grid {
     margin: 0 0 10px 0;
-    padding: 10px;
     border-radius: 0;
     border: 1px solid var(--lea-blue);
 }
@@ -52,6 +51,10 @@
     text-align: center;
     color: var(--lea-white);
     padding: 2px;
+}
+
+.lea-grid-header-row {
+    border: 1px solid var(--lea-blue);
 }
 
 .lea-grid-content {
