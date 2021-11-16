@@ -110,7 +110,7 @@
 
 
 .lea-colours {
-    background-color: #002147;
+    background-color: var(--lea-blue);
     color: #46db4b;
 }
 
