@@ -50,6 +50,8 @@
 .lea-grid-header {
     background-color: var(--lea-grey);
     text-align: center;
+    color: var(--lea-white);
+    padding: 2px;
 }
 
 .lea-grid-content {
