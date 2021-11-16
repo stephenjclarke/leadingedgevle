@@ -10,8 +10,11 @@
 
 
 :root {
-    --lea-blue: #00214755;
-    --white: #ffffff;
+    --lea-blue: #002147;
+    --lea-green: #46db4b;
+    --lea-white: #ffffff;
+    --lea-black: #000;
+    --lea-grey: #888;
   }
 
 
@@ -39,20 +42,20 @@
 
 .lea-grid-footer, .lea-grid-title {
     background-color: var(--lea-blue);
-    color: #eee;
+    color: var(--lea-white);
     margin: 0;
     font-weight: 900;
 }
 
 .lea-grid-header {
-    background-color: #00214755;
+    background-color: var(--lea-grey);
     text-align: center;
 }
 
 .lea-grid-content {
     align-items: center;
     display: flex;
-    border: solid 2px black;
+    border: solid 1px var(--lea-blue);
     padding: 5px 2px;
     margin: 0;
 }
@@ -111,11 +114,11 @@
 
 .lea-colours {
     background-color: var(--lea-blue);
-    color: #46db4b;
+    color: var(--lea-green);
 }
 
 .lea-colours-text {
-   color: #46db4b;
+   color: var(--lea-green);
 }
 
 
