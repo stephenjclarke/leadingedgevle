@@ -53,8 +53,10 @@
     padding: 2px;
 }
 
-.lea-grid-header-row {
-    border: 1px solid var(--lea-blue);
+.lea-grid-row {
+    border-left: 1px solid var(--lea-blue);
+    border-right: 1px solid var(--lea-blue);
+    margin: 0;
 }
 
 .lea-grid-content {
