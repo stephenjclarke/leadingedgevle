@@ -82,9 +82,9 @@
     padding: 5px;
 }
 
-.lea-grid-row {
-    border-left: 1px solid var(--lea-blue);
-    border-right: 1px solid var(--lea-blue);
+.lea-vect-grid-row {
+    border-left: 1px solid var(--lea-vect-oxford-blue);
+    border-right: 1px solid var(--lea-vect-oxford-blue);
     margin: 0;
 }
 
