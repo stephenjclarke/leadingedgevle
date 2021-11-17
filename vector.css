@@ -61,6 +61,7 @@
     padding: 20px 0;
     background-color: var(--lea-vect-oxford-blue);
     color: var(--lea-vect-white);
+    font-weight: 800;
 }
 
 .lea-vect-grid-footer {
@@ -74,10 +75,10 @@
     font-weight: 900;
 }
 
-.lea-grid-header {
-    background-color: var(--lea-grey);
+.lea-vect-grid-header {
+    background-color: var(--lea-vect-engine-grey);
     text-align: center;
-    color: var(--lea-white);
+    color: var(--lea-vect-white);
     padding: 2px;
 }
 
