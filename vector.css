@@ -295,7 +295,7 @@
     border-radius: 5px;
     text-align: center;
     color: #fff;
-    background-image: linear-gradient(to top, rgba(var(--lea-oxford-blue-rgb),1), rgba(var(--lea-oxford-blue-rgb),0));
+    background-image: linear-gradient(to top, rgba(var(--lea-vect-oxford-blue-rgb),1), rgba(var(--lea-vect-oxford-blue-rgb),0));
     
 }
 
