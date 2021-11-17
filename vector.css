@@ -141,11 +141,10 @@
 }
 
 .lea-vect-grid-credits {
-    align-items: center;
-    display: flex;
     border: solid 1px var(--lea-vect-oxford-blue);
     padding: 5px 2px;
     margin: 0;
+    text-align: center;
 }
 
 #lea-creditsawarded {
