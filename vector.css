@@ -10,6 +10,7 @@
 :root {
 /* LEA Brand Colours */
     --lea-oxford-blue: #002147;
+    --lea-oxford-blue2: rgb(00,21,70);
     --lea-lime: #46db4b;
     --lea-engine-grey: #e2e2e2;
     --lea-pale-blue: #bacded;
@@ -297,7 +298,7 @@
     border-radius: 5px;
     text-align: center;
     color: #fff;
-    background-image:   radial-gradient(var(--lea-oxford-blue), #002147 + "55");
+    background-image:   radial-gradient(var(--lea-oxford-blue), #002147, 50%);
     
 }
 
