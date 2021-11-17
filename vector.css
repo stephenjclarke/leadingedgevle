@@ -79,7 +79,7 @@
     background-color: var(--lea-vect-engine-grey);
     text-align: center;
     color: var(--lea-vect-oxford-blue);
-    padding: 5px;
+    padding: 10px;
 }
 
 .lea-vect-grid-row {
@@ -140,9 +140,9 @@
     font-weight: 700;
 }
 
-.lea-grid-credits {
+.lea-vect-grid-credits {
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid var(--lea-vect-oxford-blue);
 }
 
 #lea-creditsawarded {
