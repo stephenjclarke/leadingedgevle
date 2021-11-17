@@ -21,7 +21,6 @@
 
 .lea-vect-row {
     width: 100%;
-    margin: 0;
 }
 
 .lea-vect-row div {
@@ -33,7 +32,7 @@
 }
 
 .lea-vect-col-2 {
-    width: 16.66667%;
+    width: 16.66666%;
 }
 
 .lea-vect-col-4 {
@@ -53,7 +52,6 @@
 .lea-vect-grid {
     margin: 0 0 10px 0;
     border-radius: 0;
-    border: 1px solid var(--lea-vect-oxford-blue);
 }
 
 .lea-vect-grid-title {
@@ -90,6 +88,10 @@
 
 .lea-vect-grid-subtotal {
     font-weight: 700;
+}
+
+.lea-vect-grid-total {
+    font-weight: 900;
 }
 
 .lea-vect-grid-content {
@@ -170,12 +172,8 @@
     border-radius: 10px;
 }
 
-.lea-grid-moduletotals {
-    font-weight: 700;
-}
-
-.lea-grid-programmetotals {
-    font-weight: 700;
+.lea-vect-grid-maintotal {
+    font-weight: 900;
 }
 
 .lea-vect-revision{
@@ -317,7 +315,7 @@
 .lea-vect-head-centre-01 {
     font-size: 20pt;
     padding: 30px;
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0;
     text-align: center;
     color: #fff;
     background-image: linear-gradient(to top, rgba(var(--lea-vect-oxford-blue-rgb),1), rgba(var(--lea-vect-oxford-blue-rgb),0));
