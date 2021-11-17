@@ -297,7 +297,7 @@
     border-radius: 5px;
     text-align: center;
     color: #fff;
-    background-image:   radial-gradient(#002147ff, #002147ff);
+    background-image:   radial-gradient(var(--lea-oxford-blue), #002147 + "55");
     
 }
 
