@@ -21,14 +21,11 @@
 
 .lea-vect-row {
     width: 100%;
+    margin: 0;
 }
 
 .lea-vect-row div {
     float: left;
-}
-
-.lea-vect-col-4 {
-    width: 33.33333%;
 }
 
 .lea-vect-col-3 {
@@ -37,6 +34,14 @@
 
 .lea-vect-col-2 {
     width: 16.66667%;
+}
+
+.lea-vect-col-4 {
+    width: 33.33333%;
+}
+
+.lea-vect-col-12 {
+    width: 100%;
 }
 
 .lea-vect-fa {
@@ -61,8 +66,8 @@
 }
 
 .lea-grid-footer, .lea-grid-title {
-    background-color: var(--lea-blue);
-    color: var(--lea-white);
+    background-color: var(--lea-vect-blue);
+    color: var(--lea-vect-white);
     margin: 0;
     font-weight: 900;
 }
@@ -298,11 +303,6 @@
     font-size: 20pt;
     padding: 10px;
     border-radius: 5px;
-}
-
-.lea-vect-colours {
-    background-color: #002147;
-    color: #fff;
 }
 
 .lea-vect-head-centre-01 {
