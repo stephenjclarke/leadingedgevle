@@ -10,15 +10,22 @@
 
 
 :root {
-    --lea-blue: #002147;
-    --lea-green: #46db4b;
+    --lea-oxford-blue: #002147;
+    --lea-lime: #46db4b;
+    --lea-engine-grey: #e2e2e2;
+    --lea-pale-blue: #bacded;
+    --lea-sky-blue: #19bee6;
     --lea-white: #ffffff;
     --lea-black: #000;
-    --lea-grey: #888;
   }
 
 
-.lea-fa {
+.lea-vect-row {
+    width: 100%;
+}
+
+
+.lea-vect-fa {
     margin: 5px 10px;
     font-weight: 800;
     font-size: 120%;
