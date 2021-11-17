@@ -78,8 +78,8 @@
 .lea-vect-grid-header {
     background-color: var(--lea-vect-engine-grey);
     text-align: center;
-    color: var(--lea-vect-white);
-    padding: 2px;
+    color: var(--lea-vect-oxford-blue);
+    padding: 5px;
 }
 
 .lea-grid-row {
@@ -88,10 +88,14 @@
     margin: 0;
 }
 
-.lea-grid-content {
+.lea-vect-grid-subtotal {
+    font-weight: 700;
+}
+
+.lea-vect-grid-content {
     align-items: center;
     display: flex;
-    border: solid 1px var(--lea-blue);
+    border: solid 1px var(--lea-vect-oxford-blue);
     padding: 5px 2px;
     margin: 0;
 }
