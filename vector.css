@@ -9,21 +9,19 @@
 } */
 :root {
 /* LEA Brand Colours */
-    --lea-oxford-blue: #002147;
-    --lea-oxford-blue2: 00,21,70;
-    --lea-lime: #46db4b;
-    --lea-engine-grey: #e2e2e2;
-    --lea-pale-blue: #bacded;
-    --lea-sky-blue: #19bee6;
-    --lea-white: #ffffff;
-    --lea-black: #000;
+    --lea-vect-oxford-blue: #002147;
+    --lea-vect-oxford-blue-rgb: 00,33,71;
+    --lea-vect-lime: #46db4b;
+    --lea-vect-engine-grey: #e2e2e2;
+    --lea-vect-pale-blue: #bacded;
+    --lea-vect-sky-blue: #19bee6;
+    --lea-vect-white: #ffffff;
+    --lea-vect-black: #000;
   }
-
 
 .lea-vect-row {
     width: 100%;
 }
-
 
 .lea-vect-fa {
     margin: 5px 10px;
@@ -125,14 +123,13 @@
     letter-spacing: 2px;
 }
 
-
-.lea-colours {
-    background-color: var(--lea-blue);
-    color: var(--lea-green);
+.lea-vect-colours {
+    background-color: var(--lea-vect-oxford-blue);
+    color: var(--lea-vect-lime);
 }
 
-.lea-colours-text {
-   color: var(--lea-green);
+.lea-vect-colours-text {
+   color: var(--lea-vect-lime);
 }
 
 
@@ -298,15 +295,13 @@
     border-radius: 5px;
     text-align: center;
     color: #fff;
-    background-image:   radial-gradient(var(--lea-oxford-blue), #002147, 50%);
+    background-image: linear-gradient(to top, rgba(var(--lea-oxford-blue-rgb),1), rgba(var(--lea-oxford-blue-rgb),0));
     
 }
 
 .lea-vect-head-centre-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
-    opacity: 0.8;
-    padding: 10px;
     margin: 0;
     background-size: cover;
 }
