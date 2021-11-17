@@ -29,10 +29,10 @@
     font-size: 120%;
 }
 
-.lea-vect-grid {
+.lea-grid {
     margin: 0 0 10px 0;
     border-radius: 0;
-    border: 1px solid var(--lea-vect-oxford-blue);
+    border: 1px solid var(--lea-blue);
 }
 
 .lea-grid-title {
