@@ -35,12 +35,12 @@
     border: 1px solid var(--lea-vect-oxford-blue);
 }
 
-.lea-grid-title {
+.lea-vect-grid-title {
     text-align: center;
     padding: 20px 0;
 }
 
-.lea-grid-footer {
+.lea-vect-grid-footer {
     padding: 10px;
 }
 
