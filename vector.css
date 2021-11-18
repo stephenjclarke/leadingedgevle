@@ -103,7 +103,7 @@
     align-items: center;
     display: flex;
     border: solid 1px var(--lea-vect-oxford-blue);
-    padding: 5px 2px;
+    padding: 10px 15px;
     margin: 0;
     font-size: 120%;
     color: var(--lea-vect-oxford-blue);
@@ -151,9 +151,11 @@
 
 .lea-vect-grid-credits {
     border: solid 1px var(--lea-vect-oxford-blue);
-    padding: 5px 2px;
+    padding: 10px 2px;
     margin: 0;
     text-align: center;
+    font-size: 110%;
+    color: var(--lea-vect-oxford-blue);
 }
 
 #lea-creditsawarded {
