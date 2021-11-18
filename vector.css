@@ -1,18 +1,10 @@
-.dropdown-item a:hover {
-    color: #000;
-}
-
-
-/*
-.row{
-    margin: 0;
-} */
 :root {
 /* LEA Brand Colours */
     --lea-vect-oxford-blue: #002147;
     --lea-vect-oxford-blue-rgb: 00,33,71;
     --lea-vect-lime: #46db4b;
     --lea-vect-engine-grey: #e2e2e2;
+    --lea-vect-engine-grey-rgb: 226,226,226;
     --lea-vect-pale-blue: #bacded;
     --lea-vect-sky-blue: #19bee6;
     --lea-vect-white: #ffffff;
@@ -83,6 +75,8 @@
     text-align: center;
     color: var(--lea-vect-oxford-blue);
     padding: 10px;
+    font-size: 120%;
+    font-weight: 700;
 }
 
 .lea-vect-grid-row {
@@ -99,6 +93,7 @@
 .lea-vect-grid-total {
     font-weight: 900;
     letter-spacing: 2px;
+    background-color: rgba(var(--lea-vect-engine-grey-rgb),0.5);
 }
 
 .lea-vect-grid-content {
@@ -127,10 +122,6 @@
     height: 25%;
     align-items: center;
     display: flex;
-}
-
-.lea-grid-total {
-    font-weight: 700;
 }
 
 .lea-grid-this {
@@ -185,6 +176,8 @@
 
 .lea-vect-grid-maintotal {
     font-weight: 900;
+    font-size: 130%;
+    background-color: var(--lea-vect-engine-grey);
 }
 
 .lea-vect-revision{
@@ -475,6 +468,9 @@
     color: #fff;
 }
 
-
+#lea-vect-grid-ksarow {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 /* End of LEA Moodle CS*/
 
