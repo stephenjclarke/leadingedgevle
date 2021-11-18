@@ -361,6 +361,8 @@
     padding: 10px;
     border-radius: 0px 5px 0 0;
     text-align: center;
+    background-color: var(--lea-vect-oxford-blue);
+    color: var(--lea-vect-white);
 }
 
 .lea-vect-head-schoolfinals {
