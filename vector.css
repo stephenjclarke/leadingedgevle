@@ -93,10 +93,12 @@
 
 .lea-vect-grid-subtotal {
     font-weight: 700;
+    font-size: 120%;
 }
 
 .lea-vect-grid-total {
     font-weight: 900;
+    letter-spacing: 2px;
 }
 
 .lea-vect-grid-content {
