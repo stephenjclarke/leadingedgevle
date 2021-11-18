@@ -84,6 +84,11 @@
     display: flex;
 }
 
+.lea-vect-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /* End of General Layout */
 .lea-vect-fa {
     margin: 5px 10px;
