@@ -101,6 +101,10 @@
     text-align: left;
 }
 
+.lea-vect-right {
+    text-align: right;
+}
+
 .lea-vect-grid-row {
     border-left: 1px solid var(--lea-vect-oxford-blue);
     border-right: 1px solid var(--lea-vect-oxford-blue);
