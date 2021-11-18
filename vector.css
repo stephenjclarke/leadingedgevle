@@ -54,10 +54,37 @@
     width: 58.333333%;
 }
 
+.lea-vect-col-8 {
+    width: 66.666666%;
+}
+
+.lea-vect-col-9 {
+    width: 75%;
+}
+
 .lea-vect-col-12 {
     width: 100%;
 }
 
+.lea-vect-grid-rowof1 {
+    height: 100%;
+}
+
+.lea-vect-grid-rowof2 {
+    height: 50%;
+}
+
+.lea-vect-grid-rowof3 {
+    height: 33.33%;
+}
+
+.lea-vect-grid-rowof4 {
+    height: 25%;
+    align-items: center;
+    display: flex;
+}
+
+/* End of General Layout */
 .lea-vect-fa {
     margin: 5px 10px;
     font-weight: 800;
@@ -132,23 +159,6 @@
     color: var(--lea-vect-oxford-blue);
 }
 
-.lea-grid-rowof1 {
-    height: 100%;
-}
-
-.lea-grid-rowof2 {
-    height: 50%;
-}
-
-.lea-grid-rowof3 {
-    height: 33.33%;
-}
-
-.lea-vect-grid-rowof4 {
-    height: 25%;
-    align-items: center;
-    display: flex;
-}
 
 .lea-grid-this {
     font-weight: 900;
