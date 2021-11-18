@@ -11,6 +11,10 @@
     --lea-vect-black: #000;
   }
 
+.lea-vect-hidden {
+    display: none;
+}
+
 /* Vector Standard Bootstrap Style Layour */
 
 .lea-vect-row {
@@ -91,6 +95,10 @@
     padding: 10px;
     font-size: 120%;
     font-weight: 700;
+}
+
+.lea-vect-left {
+    text-align: left;
 }
 
 .lea-vect-grid-row {
