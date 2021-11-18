@@ -21,6 +21,7 @@
 
 .lea-vect-row {
     width: 100%;
+    display: flex;
 }
 
 .lea-vect-row div {
@@ -104,6 +105,8 @@
     border: solid 1px var(--lea-vect-oxford-blue);
     padding: 5px 2px;
     margin: 0;
+    font-size: 120%;
+    color: var(--lea-vect-oxford-blue);
 }
 
 .lea-grid-rowof1 {
