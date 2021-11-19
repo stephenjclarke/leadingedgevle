@@ -539,3 +539,11 @@
 }
 /* End of LEA Moodle CS*/
 
+/* Start of Course Format Tweaks */
+
+.course-content, ul.gridicons, li.currentselected {
+    background-color: #555;
+}
+
+
+/* End of Course Format Tweaks */
