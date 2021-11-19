@@ -1,52 +1,95 @@
-.dropdown-item a:hover {
-    color: #000;
-}
-
-
-/*
-.row{
-    margin: 0;
-} */
 :root {
 /* LEA Brand Colours */
     --lea-vect-oxford-blue: #002147;
     --lea-vect-oxford-blue-rgb: 00,33,71;
     --lea-vect-lime: #46db4b;
     --lea-vect-engine-grey: #e2e2e2;
+    --lea-vect-engine-grey-rgb: 226,226,226;
     --lea-vect-pale-blue: #bacded;
     --lea-vect-sky-blue: #19bee6;
     --lea-vect-white: #ffffff;
     --lea-vect-black: #000;
   }
 
+.lea-vect-hidden {
+    display: none;
+}
+
+/* Vector Standard Bootstrap Style Layour */
+
 .lea-vect-row {
     width: 100%;
+    display: flex;
 }
 
 .lea-vect-row div {
     float: left;
 }
 
-.lea-vect-col-3 {
-    width: 25%;
+.lea-vect-col-1 {
+    width: 8.333333%;
 }
 
 .lea-vect-col-2 {
     width: 16.66666%;
 }
 
+.lea-vect-col-3 {
+    width: 25%;
+}
+
 .lea-vect-col-4 {
-    width: 33.33333%;
+    width: 33.333333%;
+}
+
+.lea-vect-col-5 {
+    width: 41.666666%;
 }
 
 .lea-vect-col-6 {
     width: 50%;
 }
 
+.lea-vect-col-7 {
+    width: 58.333333%;
+}
+
+.lea-vect-col-8 {
+    width: 66.666666%;
+}
+
+.lea-vect-col-9 {
+    width: 75%;
+}
+
 .lea-vect-col-12 {
     width: 100%;
 }
 
+.lea-vect-grid-rowof1 {
+    height: 100%;
+}
+
+.lea-vect-grid-rowof2 {
+    height: 50%;
+}
+
+.lea-vect-grid-rowof3 {
+    height: 33.33%;
+}
+
+.lea-vect-grid-rowof4 {
+    height: 25%;
+    align-items: center;
+    display: flex;
+}
+
+.lea-vect-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* End of General Layout */
 .lea-vect-fa {
     margin: 5px 10px;
     font-weight: 800;
@@ -82,6 +125,16 @@
     text-align: center;
     color: var(--lea-vect-oxford-blue);
     padding: 10px;
+    font-size: 120%;
+    font-weight: 700;
+}
+
+.lea-vect-left {
+    text-align: left;
+}
+
+.lea-vect-right {
+    text-align: right;
 }
 
 .lea-vect-grid-row {
@@ -92,41 +145,25 @@
 
 .lea-vect-grid-subtotal {
     font-weight: 700;
+    font-size: 120%;
 }
 
 .lea-vect-grid-total {
     font-weight: 900;
+    letter-spacing: 2px;
+    background-color: rgba(var(--lea-vect-engine-grey-rgb),0.5);
 }
 
 .lea-vect-grid-content {
     align-items: center;
     display: flex;
     border: solid 1px var(--lea-vect-oxford-blue);
-    padding: 5px 2px;
+    padding: 10px 15px;
     margin: 0;
+    font-size: 120%;
+    color: var(--lea-vect-oxford-blue);
 }
 
-.lea-grid-rowof1 {
-    height: 100%;
-}
-
-.lea-grid-rowof2 {
-    height: 50%;
-}
-
-.lea-grid-rowof3 {
-    height: 33.33%;
-}
-
-.lea-grid-rowof4 {
-    height: 25%;
-    align-items: center;
-    display: flex;
-}
-
-.lea-grid-total {
-    font-weight: 700;
-}
 
 .lea-grid-this {
     font-weight: 900;
@@ -137,7 +174,7 @@
     text-align: left;
 }
 
-.lea-grid-hours {
+.lea-vect-grid-hours {
     text-align: right;
 }
 
@@ -148,9 +185,11 @@
 
 .lea-vect-grid-credits {
     border: solid 1px var(--lea-vect-oxford-blue);
-    padding: 5px 2px;
+    padding: 10px 2px;
     margin: 0;
     text-align: center;
+    font-size: 110%;
+    color: var(--lea-vect-oxford-blue);
 }
 
 #lea-creditsawarded {
@@ -178,6 +217,8 @@
 
 .lea-vect-grid-maintotal {
     font-weight: 900;
+    font-size: 130%;
+    background-color: var(--lea-vect-engine-grey);
 }
 
 .lea-vect-revision{
@@ -338,6 +379,8 @@
     font-size: 150%;
     padding: 10px;
     border-radius: 5px 0px 0 0;
+    background-color: var(--lea-vect-oxford-blue);
+    color: var(--lea-vect-white);
 }
 
 .lea-vect-head-topics-right {
@@ -345,6 +388,8 @@
     padding: 10px;
     border-radius: 0px 5px 0 0;
     text-align: center;
+    background-color: var(--lea-vect-oxford-blue);
+    color: var(--lea-vect-white);
 }
 
 .lea-vect-head-schoolfinals {
@@ -356,13 +401,13 @@
     margin: 20px 0;
 }
 
-.lea-vect-read-required {
+.lea-vect-completed {
     font-size: 150%;
-    border-radius: 10px;
-    border: 2px solid #ee2147;
-    background-color: #002147;
+    border-radius: 5px;
+    border: 2px solid var(--lea-vect-oxford-blue);
+    background-color: var(--lea-vect-pale-blue);
     margin: 0 0 30px 0;
-    color: #ff4f5fdd;
+    color: var(--lea-vect-oxford-blue);
     padding: 10px;
     letter-spacing: 1.5px;
     font-weight: 600;
@@ -468,6 +513,9 @@
     color: #fff;
 }
 
-
+.lea-vect-grid-ksarow {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 /* End of LEA Moodle CS*/
 
