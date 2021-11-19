@@ -251,13 +251,13 @@
 
 .lea-vect-unithead-left {
     color: #fff;
-    background-image: linear-gradient(to right, #002147ff,#002147dd );
+    background-image: linear-gradient(to right, var(--lea-vect-oxford-blue),rgba(var(--lea-vect-oxford-blue-rgb), 0.5) );
     border-radius: 5px 0px 0px 0px;
 }
 
 .lea-vect-unithead-right{
     color: #002147;
-    background-image: linear-gradient(to right,#002147dd,#00214711 );
+    background-image: linear-gradient(to right,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,var(--lea-vect-engine-grey) );
     text-align: right;
     border-radius: 0 10px 0px 0;
  }
