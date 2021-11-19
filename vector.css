@@ -237,10 +237,10 @@
 
 .lea-vect-revision{
     padding: 10px;
-    background-image: linear-gradient(160deg, #003157ee, #003157dd, #00516711, #ffffff00);
+    background-image: linear-gradient(160deg, var(--lea-vect-oxford-blue),rgba(var(--lea-vect-oxford-blue-rgb), 0.8), var(--lea-vect-white));
     font-size: 20pt;
-    color: #ffffffdd;
-    border-radius: 20px 0 0 20px;
+    color: var(--lea-vect-oxford-blue);
+    border-radius: 5px;
     margin: 20px 0;
 }
 
