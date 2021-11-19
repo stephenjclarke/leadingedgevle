@@ -239,7 +239,7 @@
     padding: 10px;
     background-image: linear-gradient(160deg, var(--lea-vect-oxford-blue),rgba(var(--lea-vect-oxford-blue-rgb), 0.8), var(--lea-vect-white));
     font-size: 20pt;
-    color: var(--lea-vect-oxford-blue);
+    color: var(--lea-vect-sky-blue);
     border-radius: 5px;
     margin: 20px 0;
 }
@@ -312,7 +312,7 @@
 
 .lea-vect-unithead-right{
     color: #002147;
-    background-image: linear-gradient(to right,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,rgba(var(--lea-vect-oxford-blue-rgb), 0.1), var(--lea-vect-engine-grey) );
+    background-image: linear-gradient(160 deg,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,rgba(var(--lea-vect-oxford-blue-rgb), 0.1), var(--lea-vect-engine-grey) );
     text-align: right;
     border-radius: 0 10px 0px 0;
  }
