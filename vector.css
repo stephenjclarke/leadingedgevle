@@ -251,7 +251,7 @@
     background-image: linear-gradient(to right, #003157ff,#003157dd,#00315700 );
     letter-spacing: 2px;
     font-weight: 700;
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px;
     margin: 10px 0;
 }
 
@@ -329,11 +329,17 @@
 
 .lea-vect-testhead {
     padding: 10px;
-    background-color: #005599ee;
-    font-size: 20pt;
-    color: #ffffffdd;
+    background-color: var(--lea-vect-engine-grey);
+    font-size: 130%;
+    color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
     margin: 20px 0;
+    border: 2px solid var(--lea-vect-oxford-blue);
+}
+
+.lea-vect-testhead ul {
+   margin: 0 20px;
+   font-size: 100%;
 }
 
 .lea-vect-link {
