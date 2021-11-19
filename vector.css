@@ -298,7 +298,7 @@
 
 .lea-vect-unithead-right{
     color: #002147;
-    background-image: linear-gradient(to right,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,var(--lea-vect-engine-grey) );
+    background-image: linear-gradient(to right,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,rgba(var(--lea-vect-oxford-blue-rgb), 0.1), var(--lea-vect-engine-grey) );
     text-align: right;
     border-radius: 0 10px 0px 0;
  }
