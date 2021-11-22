@@ -339,7 +339,7 @@
     margin: 0 20px 0 0;
     background-image: linear-gradient(to right,var(--lea-vect-oxford-blue), rgba(var(--lea-vect-oxford-blue-rgb),0));
     border-radius: 5px;
-    padding: 10px;
+    padding: 10px 0;
 }
 
 .lea-vect-waypoint-box i {
