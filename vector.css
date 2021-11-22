@@ -295,6 +295,20 @@
     border-radius: 5px;
 }
 
+.lea-vect-waypoint-box {
+    text-align: center;
+
+}
+
+.lea-vect-waypoint-box i {
+    margin: auto;
+}
+
+.lea-vect-waypoint-box p {
+    font-size: 80%;
+    
+}
+
 
 
 .lea-vect-unithead-left,  .lea-vect-unithead-right{
