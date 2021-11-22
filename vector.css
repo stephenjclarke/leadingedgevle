@@ -348,7 +348,7 @@
 }
 
 .lea-vect-waypoint-box p {
-    font-size: 0.7vmin;
+    font-size: 0.8vmin;
     text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 0px;
     color: var(--lea-vect-white);
