@@ -257,12 +257,12 @@
 
 .lea-vect-readinghead h2, .lea-vect-progresstesthead h2 {
     font-size: 120%;
-    color: #fff;
+    color: var(--lea-vect-white);
     font-weight: 600;
 }
 
 .lea-vect-fa-progress {
-    color: var(--lea-vect-light-blue);
+    color: var(--lea-vect-pale-blue);
 }
 
 .lea-vect-readinghead p, .lea-vect-progresstesthead p {
