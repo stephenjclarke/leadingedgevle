@@ -366,15 +366,14 @@
 
 .lea-vect-waypoint-hours {
     text-align: center;
-    margin: 0 20px 0 0;
+    margin: auto 20px auto 0;
     padding: 10px 0;
 }
 
 .lea-vect-waypoint-hours p {
     font-size: 1.2vmin;
-    text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 0px;
-    color: var(--lea-vect-engine-grey);
+    color: var(--lea-vect-royal-blue);
     margin: 0;
     padding: 0;
     text-align: center;
@@ -382,9 +381,8 @@
 
 .lea-vect-waypoint-hours h2 {
     font-size: 2.5vmin;
-    text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 1px;
-    color: var(--lea-vect-white);
+    color: var(--lea-vect-royal-blue);
     margin: 10px 0;
     
 }
@@ -516,7 +514,7 @@
 }
 
 .lea-vect-completed {
-    font-size: 150%;
+    
     border-radius: 5px;
      background-color: var(--lea-vect-pale-blue);
     margin: 0 0 30px 0;
@@ -528,6 +526,7 @@
 
 .lea-vect-completed-text {
        padding: 10px;
+       font-size: 140%;
     }
 
 .lea-vect-head-checklist {
