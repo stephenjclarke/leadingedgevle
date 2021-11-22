@@ -297,6 +297,7 @@
 
 .lea-vect-waypoint-box {
     text-align: center;
+    margin: 0 20px 0 0;
 
 }
 
@@ -305,7 +306,9 @@
 }
 
 .lea-vect-waypoint-box p {
-    font-size: 80%;
+    font-size: 70%;
+    text-shadow:var(--lea-vect-engine-grey);
+    letter-spacing: 0px;
     
 }
 
