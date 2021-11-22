@@ -261,13 +261,13 @@
     font-weight: 600;
 }
 
-.lea-vect-readinghead h2 i, .lea-vect-progresstesthead h2 1 {
+.lea-vect-fa-progress {
     color: var(--lea-vect-light-blue);
 }
 
 .lea-vect-readinghead p, .lea-vect-progresstesthead p {
-    font-size: 90%;
-    color: #fff;
+    font-size: 80%;
+    color: var(--lea-vect-white);
 }
 
 
