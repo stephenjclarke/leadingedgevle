@@ -255,12 +255,13 @@
     margin: 10px 0;
 }
 
-.lea-vect-readinghead h2, .lea-vect-progresstest h2 {
+.lea-vect-readinghead h2, .lea-vect-progresstesthead h2 {
     font-size: 120%;
     color: #fff;
+    font-weight: 600;
     }
 
-    .lea-vect-readinghead p, .lea-vect-progresstest p {
+    .lea-vect-readinghead p, .lea-vect-progresstesthead p {
         font-size: 100%;
         color: #fff;
         }
