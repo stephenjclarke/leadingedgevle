@@ -298,8 +298,8 @@
 .lea-vect-waypoint-box {
     text-align: center;
     margin: 0 20px 0 0;
-    background-image: linear-gradient(var(--lea-vect-oxford-blue), rgba(var(--lea-vect-oxford-blue-rgb),0));
-
+    background-image: linear-gradient(to right,var(--lea-vect-oxford-blue), rgba(var(--lea-vect-oxford-blue-rgb),0));
+    border-radius: 5px;
 }
 
 .lea-vect-waypoint-box i {
@@ -439,6 +439,18 @@
     color: #ffffffdd;
     border-radius: 5px;
     margin: 20px 0;
+}
+
+.lea-vect-completed {
+    font-size: 150%;
+    border-radius: 5px;
+    border: 2px solid var(--lea-vect-oxford-blue);
+    background-color: var(--lea-vect-pale-blue);
+    margin: 0 0 30px 0;
+    color: var(--lea-vect-oxford-blue);
+    padding: 0px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
 }
 
 .lea-vect-completed {
