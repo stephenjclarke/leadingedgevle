@@ -352,6 +352,8 @@
     text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 0px;
     color: var(--lea-vect-white);
+    margin: 0;
+    padding: 0;
     
 }
 
