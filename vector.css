@@ -453,17 +453,9 @@
     font-weight: 600;
 }
 
-.lea-vect-completed {
-    font-size: 150%;
-    border-radius: 5px;
-    border: 2px solid var(--lea-vect-oxford-blue);
-    background-color: var(--lea-vect-pale-blue);
-    margin: 0 0 30px 0;
-    color: var(--lea-vect-oxford-blue);
-    padding: 10px;
-    letter-spacing: 1.5px;
-    font-weight: 600;
-}
+.lea-vect-completed-text {
+       padding: 10px;
+    }
 
 .lea-vect-head-checklist {
     font-size: 150%;
