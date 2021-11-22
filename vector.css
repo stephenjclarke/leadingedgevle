@@ -374,7 +374,7 @@
     padding: 10px 0;
 }
 
-.lea-vect-waypoint-box p {
+.lea-vect-waypoint-hours p {
     font-size: 0.8vmin;
     text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 0px;
@@ -384,7 +384,7 @@
     
 }
 
-.lea-vect-waypoint-box h2 {
+.lea-vect-waypoint-hours h2 {
     font-size: 2vmin;
     text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 1px;
