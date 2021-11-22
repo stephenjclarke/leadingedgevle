@@ -298,7 +298,7 @@
 .lea-vect-waypoint-box {
     text-align: center;
     margin: 0 20px 0 0;
-    background-color: linear-gradient(var(--lea-vect-oxford-blue), rgba(var(--lea-vect-oxford-blue-rgb),0));
+    background-image: linear-gradient(var(--lea-vect-oxford-blue), rgba(var(--lea-vect-oxford-blue-rgb),0));
 
 }
 
@@ -311,6 +311,7 @@
     font-size: 70%;
     text-shadow:var(--lea-vect-engine-grey);
     letter-spacing: 0px;
+    color: var(--lea-vect-white);
     
 }
 
