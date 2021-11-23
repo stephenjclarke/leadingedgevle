@@ -261,6 +261,10 @@
     font-weight: 600;
 }
 
+#lea-vect-welcome i {
+    font-size: 1vw;
+}
+
 .lea-vect-fa-progress {
     color: var(--lea-vect-sky-blue);
 }
