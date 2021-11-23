@@ -266,7 +266,7 @@
 }
 
 .lea-vect-readinghead p, .lea-vect-progresstesthead p {
-    font-size: 0.7vw;
+    font-size: 100%;
     color: var(--lea-vect-white);
 }
 
