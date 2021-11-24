@@ -75,7 +75,7 @@
 }
 
 .lea-vect-grid-rowof1 {
-    height: 100%;
+
 }
 
 .lea-vect-grid-rowof2 {
@@ -245,7 +245,6 @@
 }
 
 .lea-vect-readinghead {
-    font-size: 120%;
     padding: 20px;
     color: var(--lea-vect-white);
     background-image: linear-gradient(to right, #003157ff,#003157dd,#00315700 );
@@ -256,7 +255,7 @@
 }
 
 .lea-vect-readinghead h2, .lea-vect-progresstesthead h2 {
-    font-size: 120%;
+    font-size: 130%;
     color: var(--lea-vect-white);
     font-weight: 600;
 }
@@ -266,7 +265,7 @@
 }
 
 .lea-vect-readinghead p, .lea-vect-progresstesthead p {
-    font-size: 0.7vw;
+    font-size: 100%;
     color: var(--lea-vect-white);
 }
 
