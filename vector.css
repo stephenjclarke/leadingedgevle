@@ -127,6 +127,7 @@
     padding: 10px;
     font-size: 120%;
     border-radius: 0 0 10px 10px;
+    border: 1px solid var(--lea-vect-oxford-blue);
 }
 
 .lea-vect-grid-footer, .lea-vect-grid-title {
