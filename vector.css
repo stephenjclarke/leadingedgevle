@@ -125,6 +125,8 @@
 
 .lea-vect-grid-footer {
     padding: 10px;
+    font-size: 120%;
+    border-radius: 0 0 10px 10px;
 }
 
 .lea-vect-grid-footer, .lea-vect-grid-title {
