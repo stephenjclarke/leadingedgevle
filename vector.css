@@ -250,7 +250,6 @@
     background-image: linear-gradient(to right, #003157ff,#003157dd,#00315700 );
     letter-spacing: 2px;
     font-weight: 700;
-    border-radius: 5px;
     margin: 10px 0;
 }
 
@@ -258,6 +257,14 @@
     font-size: 130%;
     color: var(--lea-vect-white);
     font-weight: 600;
+}
+
+.lea-vect-readingstart {
+    border-radius: 10px 10px 0 0;
+}
+
+.lea-vect-readingfinish {
+    border-radius: 0 0 10px 10px;   
 }
 
 .lea-vect-fa-progress {
@@ -507,6 +514,7 @@
     padding:56.25% 0 0 0;
     position:relative;
 }
+
 
 .lea-vect-head-schoolfinals {
     font-size: 150%;
