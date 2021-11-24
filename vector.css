@@ -503,6 +503,11 @@
     color: var(--lea-vect-white);
 }
 
+.lea-vect-vimeo {
+    padding:56.25% 0 0 0;
+    position:relative;
+}
+
 .lea-vect-head-schoolfinals {
     font-size: 150%;
     padding: 10px;
@@ -520,7 +525,7 @@
     color: var(--lea-vect-oxford-blue);
     padding: 0px;
     font-weight: 600;
-    line-height: 1vw;
+    line-height: 1.1vw;
 }
 
 .lea-vect-completed-text {
