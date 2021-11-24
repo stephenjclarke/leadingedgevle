@@ -513,14 +513,14 @@
 }
 
 .lea-vect-completed {
-    font-size: 1vw;
+    font-size: 0.9vw;
     border-radius: 5px;
      background-color: var(--lea-vect-pale-blue);
     margin: 0 0 30px 0;
     color: var(--lea-vect-oxford-blue);
     padding: 0px;
     font-weight: 600;
-    line-height: normal;
+    line-height: 1vw;
 }
 
 .lea-vect-completed-text {
