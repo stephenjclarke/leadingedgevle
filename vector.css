@@ -253,7 +253,7 @@
     background-image: linear-gradient(to right, #003157ff,#003157dd,#00315700 );
     letter-spacing: 2px;
     font-weight: 700;
-    margin: 10px 0;
+    margin: 10px 0 0 0;
 }
 
 .lea-vect-readinghead h2, .lea-vect-progresstesthead h2 {
@@ -267,7 +267,8 @@
 }
 
 .lea-vect-readingfinish {
-    border-radius: 0 0 10px 10px;   
+    border-radius: 0 0 10px 10px;
+    margin: 0 0 10px 0;  
 }
 
 .lea-vect-fa-progress {
