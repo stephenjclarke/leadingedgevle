@@ -486,10 +486,22 @@
     
 }
 
+.lea-vect-vimeo iframe {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+.lea-vect-vimeo {
+    background-color: var(--vect-lea-royal-blue);
+}
+
 .lea-vect-head-centre-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
-    margin: 0 1px 0 0;
+    margin: 0 0px 0 0;
     background-size: cover;
 }
 
