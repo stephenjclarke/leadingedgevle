@@ -667,5 +667,10 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+lea-vect-studyplan {
+    font-size: 120%;
+    background-color: var(--lea-vect-oxford-blue);
+}
 /* End of LEA Moodle CS*/
 
