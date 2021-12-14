@@ -11,6 +11,9 @@
     --lea-vect-black: #000;
   }
 
+  title {
+      display: inline;
+  }
 .lea-vect-hidden {
     display: none;
 }
