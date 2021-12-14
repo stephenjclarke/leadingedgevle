@@ -75,7 +75,7 @@
 }
 
 .lea-vect-grid-rowof1 {
-    height: 100%;
+
 }
 
 .lea-vect-grid-rowof2 {
@@ -125,6 +125,9 @@
 
 .lea-vect-grid-footer {
     padding: 10px;
+    font-size: 120%;
+    border-radius: 0 0 10px 10px;
+    border: 1px solid var(--lea-vect-oxford-blue);
 }
 
 .lea-vect-grid-footer, .lea-vect-grid-title {
@@ -245,24 +248,27 @@
 }
 
 .lea-vect-readinghead {
-    font-size: 120%;
     padding: 20px;
     color: var(--lea-vect-white);
     background-image: linear-gradient(to right, #003157ff,#003157dd,#00315700 );
     letter-spacing: 2px;
     font-weight: 700;
-    border-radius: 5px;
-    margin: 10px 0;
+    margin: 10px 0 0 0;
 }
 
 .lea-vect-readinghead h2, .lea-vect-progresstesthead h2 {
-    font-size: 120%;
+    font-size: 130%;
     color: var(--lea-vect-white);
     font-weight: 600;
 }
 
-#lea-vect-welcome i, lea-vect-prepare i {
-    font-size: 2vw;
+.lea-vect-readingstart {
+    border-radius: 10px 10px 0 0;
+}
+
+.lea-vect-readingfinish {
+    border-radius: 0 0 10px 10px;
+    margin: 0 0 10px 0;  
 }
 
 .lea-vect-fa-progress {
@@ -270,7 +276,7 @@
 }
 
 .lea-vect-readinghead p, .lea-vect-progresstesthead p {
-    font-size: 90%;
+    font-size: 100%;
     color: var(--lea-vect-white);
 }
 
@@ -279,13 +285,11 @@
 .lea-vect-readingbground {
     background-size: cover;
     margin: 20px 0 0 0;
-    border-radius: 5px;
     background-image: url('https://stephenjclarke.github.io/leadingedgevle/images/iPad_Reading.jpg');
     background-repeat: no-repeat;
     padding: 0px;
     background-size: fit;
     background-position: right;
-    border-radius: 5px;
 }
 
 .lea-vect-progresstesthead {
@@ -377,7 +381,7 @@
 .lea-vect-waypoint-hours p {
     font-size: 1.2vmin;
     letter-spacing: 0px;
-    color: var(--lea-vect-royal-blue);
+    color: var(--lea-vect-oxford-blue);
     margin: 0;
     padding: 0;
     text-align: center;
@@ -386,7 +390,7 @@
 .lea-vect-waypoint-hours h2 {
     font-size: 2.5vmin;
     letter-spacing: 1px;
-    color: var(--lea-vect-royal-blue);
+    color: var(--lea-vect-oxford-blue);
     margin: 0;
     
 }
@@ -476,18 +480,25 @@
 .lea-vect-head-centre-01 {
     font-size: 20pt;
     padding: 30px;
-    border-radius: 5px 5px 0 0;
+
     text-align: center;
     color: #fff;
     background-image: linear-gradient(to top, rgba(var(--lea-vect-oxford-blue-rgb),1), rgba(var(--lea-vect-oxford-blue-rgb),0));
     
 }
 
+
+
 .lea-vect-head-centre-bground {
     background-image: url('https://leadingedgeaviation.com/wp-content/uploads/LEA-PCL-Prize-3.jpg');
     background-repeat: no-repeat;
-    margin: 0;
+
     background-size: cover;
+    border-radius: 5px 5px 0 0;
+}
+
+.lea-vect-head-centre-01, .lea-vect-head-centre-bground {
+    margin: 20px 0px 0 0;
 }
 
 
@@ -508,6 +519,21 @@
     color: var(--lea-vect-white);
 }
 
+.lea-vect-vimeo {
+    padding:30% 0 0 0;
+    position:relative;
+    background-color: var(--lea-vect-oxford-blue);
+}
+
+.lea-vect-vimeo iframe {
+    position:absolute;
+    top:0;
+    left:20%;
+    width:60%;
+    height:90%;
+}
+
+
 .lea-vect-head-schoolfinals {
     font-size: 150%;
     padding: 10px;
@@ -518,25 +544,26 @@
 }
 
 .lea-vect-completed {
-    
+    font-size: 0.9vw;
     border-radius: 5px;
      background-color: var(--lea-vect-pale-blue);
-    margin: 0 0 30px 0;
+    margin: 30px 0 30px 0;
     color: var(--lea-vect-oxford-blue);
     padding: 0px;
     font-weight: 600;
+    line-height: 1.1vw;
 }
 
 .lea-vect-completed-text {
        padding: 10px;
-       font-size: 130%;
+       font-size: 1vw;
        margin: auto 0;
     }
 
 .lea-vect-head-checklist {
     font-size: 150%;
     border-radius: 10px;
-    background-color: #002147;
+    background-color: var(--lea-vect-oxford-blue);
     margin: 0 0 30px 0;
     color: #fff;
     padding: 10px;
