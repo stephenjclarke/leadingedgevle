@@ -670,7 +670,8 @@
 
 .lea-vect-studyplan {
     font-size: 120%;
-    background-color: var(--lea-vect-oxford-blue);
+    background-color: var(--lea-vect-engine-grey);
+    margin: 3px solid var(--lea-vect-oxford-blue)
 }
 /* End of LEA Moodle CS*/
 
