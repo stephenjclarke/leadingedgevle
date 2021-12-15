@@ -413,6 +413,12 @@
     border-radius: 5px 0px 0px 0px;
 }
 
+.lea-vect-unithead-left p {
+ margin-left: 20px;
+ font-size: 80%;
+ font-weight: 200;
+}
+
 .lea-vect-unithead-right{
     color: #002147;
     background-image: linear-gradient(to right,rgba(var(--lea-vect-oxford-blue-rgb), 0.5) ,rgba(var(--lea-vect-oxford-blue-rgb), 0.1), var(--lea-vect-engine-grey) );
