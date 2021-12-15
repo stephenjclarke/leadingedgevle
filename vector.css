@@ -212,6 +212,15 @@
     color: var(--lea-vect-oxford-blue);
 }
 
+.lea-vect-grid-subjects {
+    border: solid 1px var(--lea-vect-oxford-blue);
+    padding: 10px 2px;
+    margin: 0;
+    text-align: center;
+    font-size: 90%;
+    color: var(--lea-vect-oxford-blue);
+}
+
 #lea-creditsawarded {
     padding: 20px 0 10px;
     font-weight: 600;
@@ -414,7 +423,6 @@
 }
 
 .lea-vect-unithead-left p {
- margin-left: 15%;
  font-size: 80%;
  font-weight: 200;
 }
