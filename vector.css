@@ -706,7 +706,8 @@
 }
 
 .lea-vect-bullet2 li:before {
-    content: "-";
+    content: "- ";
+    font-size: 120%;
 }
 
 /* End of LEA Moodle CS*/
