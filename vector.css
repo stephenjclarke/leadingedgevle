@@ -690,5 +690,9 @@
     margin: 5px;
     border-radius: 3px;
 }
+
+.lea-vect-studyplan p b {
+    font-size: 150%;
+    }
 /* End of LEA Moodle CS*/
 
