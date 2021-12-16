@@ -696,5 +696,18 @@
     color: var(--lea-vect-oxford-blue);
     text-align: center;
     }
+
+.lea-vect-bullet1 {
+    list-style-type: circle;
+}
+
+.lea-vect-bullet2 {
+    list-style-type: none;
+}
+
+.lea-vect-bullet2 li:before {
+    content: "-";
+}
+
 /* End of LEA Moodle CS*/
 
