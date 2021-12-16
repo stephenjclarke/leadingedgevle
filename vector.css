@@ -701,14 +701,6 @@
     list-style-type: circle;
 }
 
-.lea-vect-bullet1 li ul {
-    list-style-type: none;
-}
-
-.lea-vect-bullet2 li:before {
-    content: "- ";
-    font-size: 120%;
-}
 
 /* End of LEA Moodle CS*/
 
