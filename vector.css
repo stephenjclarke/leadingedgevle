@@ -454,6 +454,11 @@ title {
     border: 5px inset var(--lea-vect-engine-grey);
 }
 
+.lea-vect-schoolfinalhead ul {
+    margin: 0 20px;
+    font-size: 80%;
+ }
+
 .lea-vect-testhead {
     padding: 10px;
     background-color: var(--lea-vect-engine-grey);
