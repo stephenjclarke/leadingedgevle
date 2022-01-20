@@ -451,7 +451,7 @@ title {
     color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
     margin: 20px 0;
-    border: 2px inset var(--lea-vect-oxford-blue);
+    border: 5px inset var(--lea-vect-oxford-blue);
 }
 
 .lea-vect-testhead {
