@@ -451,7 +451,7 @@ title {
     color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
     margin: 20px 0;
-    border: 5px inset var(--lea-vect-engine-grey);
+    border: 5px inset rgba(var(--lea-vect-oxford-blue-rgb),0.5);
 }
 
 .lea-vect-schoolfinalhead ul {
