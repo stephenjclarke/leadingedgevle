@@ -466,7 +466,7 @@ title {
     color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
     margin: 20px 0;
-    border: 5px inset var(--lea-vect-engine-grey);
+    border: 1px solid var(--lea-vect-oxford-blue);
 }
 
 .lea-vect-progresstestdescription ul {
