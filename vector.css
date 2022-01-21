@@ -460,8 +460,8 @@ title {
  }
 
  .lea-vect-progresstestdescription {
-    padding: 5px 10px;
-    background-color: var(--lea-vect-white);
+    padding: 0 5px 20px 0;
+    background-color: var(--lea-vect-engine-grey);
     font-size: 100%;
     color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
