@@ -461,18 +461,13 @@ title {
 
  .lea-vect-progresstestdescription {
     padding: 0 5px 20px 0;
-    background-color: var(--lea-vect-engine-grey);
+    background-color: var(--lea-vect-white);
     font-size: 100%;
     color: var(--lea-vect-oxford-blue);
     border-radius: 5px;
-    margin: 20px 0;
-    border: 1px solid var(--lea-vect-oxford-blue);
+    margin: 0;
 }
 
-.lea-vect-progresstestdescription ul {
-    margin: 0 20px;
-    font-size: 80%;
- }
 
 .lea-vect-testhead {
     padding: 10px;
