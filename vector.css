@@ -31,6 +31,8 @@ title {
 
 .lea-vect-col-1 {
     width: 8.333333%;
+    border-radius: 5px 0 0 5px;
+    display: flex;
 }
 
 .lea-vect-booksapp {
