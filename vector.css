@@ -37,6 +37,12 @@ title {
     background-color: var(--lea-vect-engine-grey);
 }
 
+.lea-vect-booksapp img {
+    height: 80%;
+    width: 80%;
+    margin: 5px;
+}
+
 .lea-vect-col-2 {
     width: 16.66666%;
 }
