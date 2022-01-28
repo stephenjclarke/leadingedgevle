@@ -34,6 +34,14 @@ title {
   
 }
 
+.lea-vect-padpilot-instructions{
+    font-weight: bold;
+}
+
+.lea-vect-padpilot-instructions li{
+    margin-left: 30px;
+}
+
 .lea-vect-booksapp {
     background-color: var(--lea-vect-engine-grey);
     border-radius: 5px 0 0 5px;
