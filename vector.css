@@ -41,8 +41,8 @@ title {
 }
 
 .lea-vect-booksapp img {
-    height: 80%;
-    width: 80%;
+    max-height: 50px;
+    max-width: 50px;
     margin: 5px;
 }
 
@@ -524,6 +524,8 @@ title {
     border-radius: 0 5px 5px 0;
     background-color: #00214722;
     margin: 0;
+    display: flex;
+    vertical-align: middle;
 }
 
 .lea-vect-head-left-01 {
