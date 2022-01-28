@@ -38,6 +38,7 @@ title {
     background-color: var(--lea-vect-engine-grey);
     border-radius: 5px 0 0 5px;
     display: flex;
+    align-items: center;
 }
 
 .lea-vect-booksapp img {
@@ -525,7 +526,7 @@ title {
     background-color: #00214722;
     margin: 0;
     display: flex;
-    vertical-align: middle;
+    align-items: center;
 }
 
 .lea-vect-head-left-01 {
