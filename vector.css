@@ -544,6 +544,10 @@ title {
     align-items: center;
 }
 
+.lea-vect-linktext b {
+    margin: 5px 0 0 0;
+}
+
 .lea-vect-head-left-01 {
     font-size: 20pt;
     padding: 10px;
