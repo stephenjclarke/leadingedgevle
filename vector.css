@@ -35,11 +35,13 @@ title {
 }
 
 .lea-vect-padpilot-instructions{
-    font-weight: bold;
+    font-weight: 900;
+    margin: 20px 0 10px 0;
 }
 
 .lea-vect-padpilot-instructions li{
-    margin-left: 30px;
+    margin: 5px 0 5px 30px;
+    font-weight: 400;
 }
 
 .lea-vect-booksapp {
