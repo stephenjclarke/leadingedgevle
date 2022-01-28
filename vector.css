@@ -541,6 +541,7 @@ title {
     background-color: #00214722;
     margin: 0;
     display: flex;
+    flex-direction: row;
     align-items: center;
 }
 
