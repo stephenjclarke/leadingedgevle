@@ -20,6 +20,10 @@ title {
 
 /* Vector Standard Bootstrap Style Layout */
 
+.lea-vect-testtitle {
+    font-weight: 900;
+}
+
 .lea-vect-gridfoot {
     font-weight: 900;
     background-color: var(--lea-vect-engine-grey);
