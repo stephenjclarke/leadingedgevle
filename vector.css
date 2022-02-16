@@ -23,11 +23,7 @@ title {
 .lea-vect-gridfoot {
     font-weight: 900;
     background-color: var(--lea-vect-engine-grey);
-    padding: 10px;
-    font-size: 120%;
-    border-radius: 0 0 10px 10px;
-    border: 1px solid var(--lea-vect-oxford-blue);
-}
+    }
 .lea-vect-row {
     width: 100%;
     display: flex;
