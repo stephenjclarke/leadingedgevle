@@ -20,6 +20,11 @@ title {
 
 /* Vector Standard Bootstrap Style Layout */
 
+.lea-vect-gridfoot {
+    font-weight: 900;
+    background-color: var(--lea-vect-engine-grey);
+    border-radius: 0 5px 5px 0;
+}
 .lea-vect-row {
     width: 100%;
     display: flex;
