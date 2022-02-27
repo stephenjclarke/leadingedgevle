@@ -771,6 +771,13 @@ title {
     list-style-type: circle;
 }
 
+.lea-copybox {
+    background-color: #bacded;
+    font-weight: 800;
+    margin: 10px;
+    padding:20px;
+}
+
 
 /* End of LEA Moodle CS*/
 
