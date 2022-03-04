@@ -791,7 +791,10 @@ title {
     border: 5px black solid;
 }
 
-.lea-instr-settings {}
+.lea-instr-settings {
+    margin: 20px 0 20px 0;
+    background-color: #efefef;
+}
 
 /* End of LEA Moodle CS*/
 
