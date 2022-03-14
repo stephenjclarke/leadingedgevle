@@ -422,7 +422,7 @@ title {
     margin: 0;  
 }
 
-lea-vect-waypoint-box h4 {
+.lea-vect-waypoint-box h4 {
     font-size: 50%;
     letter-spacing: 1px;
     color: var(--lea-vect-white);
