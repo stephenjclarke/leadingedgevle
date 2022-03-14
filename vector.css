@@ -422,6 +422,13 @@ title {
     margin: 0;  
 }
 
+lea-vect-waypoint-box h4 {
+    font-size: 50%;
+    letter-spacing: 1px;
+    color: var(--lea-vect-white);
+    margin: 1px;  
+}
+
 .lea-vect-waypoint-hours {
     text-align: center;
     margin: auto 20px auto 0;
