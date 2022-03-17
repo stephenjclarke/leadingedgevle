@@ -805,6 +805,13 @@ title {
     border: 5px black solid;
 }
 
+.lea-divider {
+    font-weight: 900;
+    font-size: 150%;
+    margin: 10px 0 30px 0;
+    border: 3px efefef dashed;
+}
+
 .lea-instr-settings {
     margin: 20px 0 20px 0;
     background-color: #ccc;
